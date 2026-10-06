@@ -1,14 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Himanshu Yadav
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00ff99,100:0f2027&height=220&section=header&text=Himanshu%20Yadav&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Java%20%7C%20Python%20%7C%20Full%20Stack&descAlignY=60&descSize=18"/>
 
-### AI/ML Developer • Java Programmer • Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Building+AI+%26+ML+Projects;Learning+DSA+with+Java;Exploring+Deep+Learning;Building+Real-World+Applications" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=650&lines=Building+AI+%26+ML+Projects;Learning+DSA+with+Java;Exploring+Deep+Learning;Building+Full+Stack+Applications" />
+<br><br>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=himanshu6532&label=Profile%20Views&color=00ff99&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=himanshu6532&label=PROFILE+VIEWS&color=00ff99&style=for-the-badge"/>
 
 </div>
 
@@ -16,92 +14,166 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE (AI & ML) Student
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 💻 Working with **Java, Python & Full Stack Development**
-- 🧠 Currently improving **DSA, Machine Learning & Deep Learning**
-- 🚀 Building practical projects to solve real-world problems
-- 📚 Always learning and improving my development skills
+<table>
+<tr>
+<td width="55%">
+
+### Hi, I'm Himanshu 👋
+
+🎓 **B.Tech CSE (AI & ML) Student**
+
+💻 I enjoy building software and AI-based projects.
+
+🤖 Currently exploring **Machine Learning, Deep Learning and AI applications**.
+
+🧠 Improving my **DSA skills with Java**.
+
+🌐 Also interested in **Full Stack Development**.
+
+🚀 My goal is to build practical projects and become a strong software/AI developer.
+
+</td>
+
+<td width="45%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=himanshu6532&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=FFFFFF"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👨‍💻 Programming
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Languages
 
-### 🤖 AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🤖 AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+
+### 🔧 Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 ChaosAgent AI
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🤖 ChaosAgent AI
 
 **Graph-Driven Autonomous Chaos Engineering & Failure Topology Simulator**
 
-A project focused on simulating failures in interconnected systems and understanding failure propagation through graph-based topology.
+A graph-based system designed to simulate failures and analyze how failures propagate through interconnected services.
 
-**Tech:** Python • NetworkX • Graph Algorithms • Chaos Engineering
+**Tech Stack**
 
----
+`Python` `NetworkX` `Graph Algorithms`
 
-### 😊 Facial Expression Detection
+</td>
+
+<td width="50%">
+
+## 😊 Facial Expression Detection
 
 CNN-based facial expression recognition system using the **FER2013 dataset**.
 
-**Tech:** Python • TensorFlow • Keras • CNN • Computer Vision
+Detects emotions such as:
 
----
+`Angry` `Disgust` `Fear` `Happy` `Neutral` `Sad` `Surprise`
 
-### 🌐 Full Stack Projects
+**Tech Stack**
 
-Building responsive and practical web applications using modern frontend and backend technologies.
+`Python` `TensorFlow` `Keras` `CNN`
 
-**Tech:** HTML • CSS • JavaScript • Backend Development
+</td>
 
----
+</tr>
 
-## 📊 GitHub Stats
+<tr>
 
-<div align="center">
+<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=himanshu6532&show_icons=true&theme=dark&hide_border=true&title_color=00ff99&icon_color=00ff99" height="170"/>
+## 🌐 Full Stack Projects
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu6532&layout=compact&theme=dark&hide_border=true&title_color=00ff99" height="170"/>
+Building responsive web applications using modern frontend technologies and backend development.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `Backend`
+
+</td>
+
+<td width="50%">
+
+## 🧠 Machine Learning Projects
+
+Exploring real-world datasets and building ML pipelines involving data preprocessing, EDA, model training and evaluation.
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy` `Scikit-Learn`
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=himanshu6532&theme=dark&hide_border=true&ring=00ff99&fire=00ff99&currStreakLabel=00ff99" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=himanshu6532&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=FFFFFF"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu6532&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=himanshu6532&theme=dark&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99"/>
 
 </div>
 
 ---
 
-## 🧠 Currently Learning
+# 🧠 Currently Learning
+
+<div align="center">
+
+`DSA` &nbsp; `Machine Learning` &nbsp; `Deep Learning`
+
+`Generative AI` &nbsp; `Full Stack Development` &nbsp; `System Design`
+
+</div>
+
+---
+
+# 🎯 2026 Goals
 
 ```text
-DSA with Java
-Machine Learning
-Deep Learning
-Full Stack Development
-AI-based Applications
+▸ Strengthen DSA with Java
+▸ Build advanced AI/ML projects
+▸ Improve Full Stack Development
+▸ Explore Generative AI
+▸ Contribute to Open Source
+▸ Prepare for internships & placements
